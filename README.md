@@ -1,7 +1,5 @@
 # Reference_Setup_Draw
 
-# Reference: Set up and Draw
-
 # GOALS For This Assignment
 Learn the setup and draw functions. 
 Create an interactive code work. 
