@@ -16,12 +16,8 @@ Make a design with the sketch, take a screenshot and submit in Google Classroom
 “ _ “ underscore in between words
 
 
-# SAVE your image
-
-Take a screenshot of your image by Crtl + Print Screen buttons together. 
-
-
-TURN IN in Classroom
+# Post in Git Hub, generate URL
+# TURN IN in Classroom
 
 
 # GRADING 
